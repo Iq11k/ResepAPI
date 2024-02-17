@@ -292,11 +292,48 @@
             "Sajikan gudeg dengan pelengkapnya."
         ],
         "image": "./img/gudeg.png"
-    },{
+    },
+    {
         "nama": "Papeda",
-        "deskripsi": "",
-        "bahan": [],
-        "cara": [],
+        "deskripsi": "Papeda adalah makanan berupa bubur sagu khas Maluku dan Papua yang biasanya disajikan dengan ikan tongkol atau bubara yang dibumbui dengan kunyit. Papeda berwarna putih dan bertekstur lengket menyerupai lem dengan rasa yang tawar. Papeda merupakan makanan yang kaya serat, rendah kolesterol, dan cukup bernutrisi.",
+        "bahan": [
+            "<strong>Papeda:</strong>",
+            "1/4 tepung sagu",
+            "2 siung bawang putih",
+            "4 gelas air",
+            "Garam dan kaldu ayam secukupnya",
+            "<strong>Ikan Kuah Kuning:</strong>",
+            "500 gram ikan tongkol ukuran sedang",
+            "4 siung bawang merah",
+            "2 siung bawang putih",
+            "1 potong jahe ukuran kecil",
+            "1 potong kencur ukuran kecil",
+            "3 buah kemiri",
+            "Merica dan ketumbar secukupnya",
+            "2 potong cabai",
+            "2 buah tomat",
+            "5 buah belimbing wuluh",
+            "2 batang serai",
+            "Kemangi, daun jeruk, dan daun salam secukupnya",
+            "1 potong kunyit",
+            "1 potong lengkuas",
+            "200 ml air"
+        ],
+        "cara": [
+            "<strong>Papeda:</strong>",
+            "Didihkan 3 gelas air.",
+            "Campurkan tepung sagu, kaldu ayam, garam, dan bawang putih yang telah dihaluskan.",
+            "Masukkan segelas air, lalu aduk hingga rata.",
+            "Tuang air yang sudah mendidih ke dalam campuran tepung sagu secara perlahan hingga mengental.",
+            "Papeda siap disajikan bersama ikan kuah kuning.",
+            "<strong>Ikan Kuah Kuning:</strong>",
+            "Haluskan bawang merah, bawang putih, merica, ketumbar, kencur, jahe, kunyit lengkuas cukup digeprek jangan sampai halus.",
+            "Tumis bumbu yang sudah dihaluskan tambahkan daun jeruk, daun salam, dan serai hingga wangi.",
+            "Tambahkan air dan ikan yang sudah dipotong sedang.",
+            "Masukkan belimbing wuluh dan tomat yg sudah diiris dan cabai bila suka pedas.",
+            "Taburkan garam dan gula secukupnya. Didihkan hingga matang.",
+            "Sajikan ikan kuah kuning bersama papeda selagi hangat."
+        ],
         "image": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSMiJB_r8Pj7Re1tJP32QQxYg-_267Ai-2ZZEKTJ5stm4S7QSP0mz3UNAyksUy4wj3o0NM2lw8dwvpJ3t0qhq5I63v2Fw=s2560"
     }
 ]
